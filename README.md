@@ -22,5 +22,14 @@ This project analyzes global company layoffs using MySQL. The current phase focu
 - `Data/` – Cleaned dataset.
 - `PowerBI/` – Dashboard files (to be added).
 
-## Current Status
-Data cleaning completed. Exploratory Data Analysis and Power BI dashboard are planned next.
+## Dashboard Preview
+
+The following dashboard was created using Power BI to analyze global layoffs from 2020 to 2023.
+
+![World Layoffs Dashboard](dashboard.png)
+
+## Key Insights
+- Analyzed layoffs across different companies, industries and countries.
+- Identified yearly layoff trends.
+- Compared the top 10 companies by layoffs.
+- Created interactive visualizations using Power BI.
